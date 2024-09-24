@@ -1,0 +1,10 @@
+ BANNERS  = {
+      "banner_1" => {
+              "name" => "Banner de test",
+              "bg" => "Graphics/Pictures/Gacha/battlebgField",
+              "rewards" => ["Graphics/Battlers/027","Graphics/Battlers/127","Graphics/Battlers/227"],
+              "stars" => [3, 4, 5],
+              "url" => "",
+              "descr" =>  "Descripción de la guena"
+              }
+      }
